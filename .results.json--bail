@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-03-22T08:38:25.036Z",
+    "end": "2024-03-22T08:38:25.322Z",
+    "duration": 286
+  },
+  "tests": [
+    {
+      "title": "returns \"Susan\"",
+      "fullTitle": "what-is-a-test Name returns \"Susan\"",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is less than 40 and greater than 0",
+      "fullTitle": "what-is-a-test Height is less than 40 and greater than 0",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "gives the name and height",
+      "fullTitle": "what-is-a-test Message gives the name and height",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns \"Susan\"",
+      "fullTitle": "what-is-a-test Name returns \"Susan\"",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is less than 40 and greater than 0",
+      "fullTitle": "what-is-a-test Height is less than 40 and greater than 0",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "gives the name and height",
+      "fullTitle": "what-is-a-test Message gives the name and height",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
